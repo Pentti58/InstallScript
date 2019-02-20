@@ -14,7 +14,7 @@
 # ./odoo-install
 ################################################################################
 
-OE_USER="odoo"
+OE_USER="Pentti"
 OE_HOME="/$OE_USER"
 OE_HOME_EXT="/$OE_USER/${OE_USER}-server"
 # The default port where this Odoo instance will run under (provided you use the command -c in the terminal)
@@ -28,7 +28,7 @@ OE_VERSION="12.0"
 # Set this to True if you want to install the Odoo enterprise version!
 IS_ENTERPRISE="False"
 # set the superadmin password
-OE_SUPERADMIN="admin"
+OE_SUPERADMIN="Pentti"
 OE_CONFIG="${OE_USER}-server"
 
 ##
